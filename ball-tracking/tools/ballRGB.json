@@ -1,0 +1,12 @@
+{
+    "lowerBallMask": {
+        "H": 1,
+        "S": 1,
+        "V": 1,
+    },
+    "upperBallMask": {
+        "H": 1,
+        "S": 1,
+        "V": 1
+    }
+}
